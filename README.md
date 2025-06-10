@@ -1,3 +1,3 @@
-# Off-Grid Electrification of Northern Manitoba and Alaska Interior 
+# Visualizing Energy Access in Northern Manitoba and Alaska Interior
 
-The files in the [public](/public) directory are deployed to: https://cse512.pages.cs.washington.edu/25sp/fp/off-grid-electrification-of-northern-manitoba-and-alaska-interior
+This is a continuation of our project, initially started as a final project for CSE 512: Data Visualization and EE 559: Energy and Sustainability, at the University of Washington!
